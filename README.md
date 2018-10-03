@@ -1,4 +1,4 @@
-~ Android-Game-Tic-Toc-Toe-with-Tom-and-Jerry
+# Android-Game-Tic-Toc-Toe-with-Tom-and-Jerry
 
 !... WHAT IS SPECIAL IN THIS PROJECT...!
 
